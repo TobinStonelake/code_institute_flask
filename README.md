@@ -43,3 +43,7 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+To install flask type: python3 install flask
+
+To create a preview type: python3 run.py
